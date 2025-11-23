@@ -15,8 +15,8 @@
   - Includes: Creating users (PowerShell), managing groups, applying group policies, and troubleshooting account issues.
 
 ### Network File Shares / Permissions
-- [Network File Shares Lab](https://github.com/nmihreteab879-design1/network-file-shares)  
-  - Includes: Creating shared folders, assigning permissions, and troubleshooting access.
+[- [Network File Shares Lab](https://github.com/nmihreteab879-design1/network-file-shares)  ](https://github.com/nmihreteab879-design/network-file-share-lab)  
+- Includes: Creating shared folders, assigning permissions, and troubleshooting access.
 <h2>🤳Connect with me:</h2>
 
 - [Download my resume (PDF)](https://github.com/username/repo-name/raw/main/Natnael_Mihreteab_Resume.pdf)
