@@ -1,39 +1,64 @@
- Hi, I'm Natnael, an [IT Professional](https://linkedin.com/in/Natnael) ☺
+ Hi, I'm Natnael Mihreteab
 
- 👨‍💻 IT Help Desk Projects
+I’m an aspiring IT/SOC professional with hands-on experience in Active Directory, osTicket, Azure, and Windows administration. Below are the projects I've completed to build real-world IT skills.
 
- osTicket (Help Desk Ticketing System)
-- [osTicket: Post-Installation Configuration](https://github.com/nmihreteab879-design1/post-install-config)  
-  - Includes: Installing osTicket, configuring the system, and initial setup.
-- [osTicket: Ticket Lifecycle Examples](https://github.com/nmihreteab879-design1/ticket-lifecycle)  
-  - Includes: Creating tickets, categorizing, assigning priorities, and closing tickets.
+ **👨‍💻 IT Help Desk Projects**
 
-  Active Directory
+ 🟦 osTicket (Help Desk Ticketing System)
+-   Osticket Configuration  
+  https://github.com/nmihreteab879-design1/post-install-config  
+  Configuring roles, departments, SLA plans, permissions, and system settings.
+
+- Ticket Lifecycle Examples  
+  https://github.com/nmihreteab879-design1/ticket-lifecycle  
+  Demonstrating ticket creation, categorization, escalation, and resolution.
+
+
+
+ **🟩 Active Directory Projects**
+
+- Preparing Active Directory in Azure  
+  https://github.com/nmihreteab879-design/Preparing-Active-Directory-In-Azure  
+  Deploying DC-1 and Client-1 in Azure, DNS configuration, and domain setup.
+
+- Configuring Active Directory in Azure  
+  https://github.com/nmihreteab879-design/configuring-Active-Directory-in-azure  
+  Creating OUs, users, groups, and implementing domain-wide changes.
+
+- Group Policy and Account Management  
+  https://github.com/nmihreteab879-design/group-policy-and-managing-accounts  
+  Creating users with PowerShell, managing groups, applying GPOs, and troubleshooting login issues.
+
   
-[- [Project 1: Setup Active directory infrastructure]
 
-(https://github.com/nmihreteab879-design1cc/configure-ad)  ](https://github.com/nmihreteab879-design/Preparing-Active-Directory-In-Azure)  
+ **🟨 Network File Shares and Permissions**
 
-[- [Project 2: deploying Active Directory on Azure VMs.]
-
-https://github.com/nmihreteab879-design/configuring-Active-Directory-in-azure
-
-[- Project 3: group-policy-and-managing-accounts]
-
-(https://github.com/nmihreteab879-design1cc/manage-ad) ](https://github.com/nmihreteab879-design/group-policy-and-managing-accounts)
- - Includes: Creating users (PowerShell), managing groups, applying group policies, and troubleshooting account issues.
-
-   Network File Shares / Permissions
-Net work file shares lab: (https://github.com/nmihreteab879-design1/network-file-shares)  ](https://github.com/nmihreteab879-design/network-file-share-lab)  
-- Includes: Creating shared folders, assigning permissions, and troubleshooting access.
-
-  [Download my resume (PDF)](https://github.com/username/repo-name/raw/main/Natnael_Mihreteab_Resume.pdf)
-  
-<h2>🤳Connect with me:</h2>
+- Network File Share Lab  
+  https://github.com/nmihreteab879-design/network-file-share-lab  
+  Creating SMB shares, configuring NTFS vs share permissions, and testing access with different security groups.
 
 
-[<img align="left" alt="Natnael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Natnael | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/Natnael
-[linkedin]: https://linkedin.com/in/Natnael
+
+
+
+
+
+
+  **📄 Resume**
+
+  https://github.com/username/repo-name/raw/main/Natnael_Mihreteab_Resume.pdf  
+
+
+
+
+
+
+
+
+ **🤳 Connect With Me**
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Natnael)  
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/Natnael)
+
+<br/><br/>
