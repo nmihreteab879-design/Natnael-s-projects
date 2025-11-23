@@ -2,6 +2,7 @@
 
 I’m an aspiring IT/SOC professional with hands-on experience in Active Directory, osTicket, Azure, and Windows administration. Below are the projects I've completed to build real-world IT skills.
 
+
  **👨‍💻 IT Help Desk Projects**
 
  🟦 osTicket (Help Desk Ticketing System)
@@ -12,7 +13,6 @@ Configuring roles, departments, SLA plans, permissions, and system settings.
 - Ticket Lifecycle Project  
 [  https://github.com/nmihreteab879-design1/ticket-lifecycle ](https://github.com/nmihreteab879-design/osticket-ticketinglifecylce)
 Demonstrating ticket creation, categorization, escalation, and resolution.
-
 
 
  **🟩 Active Directory Projects**
@@ -27,7 +27,6 @@ Demonstrating ticket creation, categorization, escalation, and resolution.
 - Group Policy and Account Management  
 [  https://github.com/nmihreteab879-design/group-policy-and-managing-accounts ](https://github.com/nmihreteab879-design/group-policy-and-managing-accounts)  Creating users with PowerShell, managing groups, applying GPOs, and troubleshooting login issues.
 
-  
 
  **🟨 Network File Shares and Permissions**
 
@@ -36,20 +35,9 @@ Demonstrating ticket creation, categorization, escalation, and resolution.
  Creating SMB shares, configuring NTFS vs share permissions, and testing access with different security groups.
 
 
-
-
-
-
-
   **📄 Resume**
 
-  https://github.com/username/repo-name/raw/main/Natnael_Mihreteab_Resume.pdf  
-
-
-
-
-
-
+file:///C:/Users/natu1/Downloads/IT%20help%20desk%20resume%20(2).pdf
 
 
  **🤳 Connect With Me**
