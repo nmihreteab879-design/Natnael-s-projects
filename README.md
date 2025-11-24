@@ -6,33 +6,42 @@ I’m an aspiring IT/SOC professional with hands-on experience in Active Directo
  **👨‍💻 IT Help Desk Projects**
 
  🟦 osTicket (Help Desk Ticketing System)
--   Osticket Configuration  
+ 
+-  Osticket Configuration  
 [  https://github.com/nmihreteab879-design1/post-install-config ](https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration)
-Configuring roles, departments, SLA plans, permissions, and system settings.
+
+. Configuring roles, departments, SLA plans, permissions, and system settings.
 
 - Ticket Lifecycle Project  
 [  https://github.com/nmihreteab879-design1/ticket-lifecycle ](https://github.com/nmihreteab879-design/osticket-ticketinglifecylce)
-Demonstrating ticket creation, categorization, escalation, and resolution.
+
+. Demonstrating ticket creation, categorization, escalation, and resolution.
 
 
  **🟩 Active Directory Projects**
 
 - Preparing Active Directory in Azure  
-[  https://github.com/nmihreteab879-design/Preparing-Active-Directory-In-Azure ](https://github.com/nmihreteab879-design/Preparing-Active-Directory-In-Azure)  Deploying DC-1 and Client-1 in Azure, DNS configuration, and domain setup.
+[  https://github.com/nmihreteab879-design/Preparing-Active-Directory-In-Azure ](https://github.com/nmihreteab879-design/Preparing-Active-Directory-In-Azure)
+
+. Deploying DC-1 and Client-1 in Azure, DNS configuration, and domain setup.
 
 - Configuring Active Directory in Azure  
 [  https://github.com/nmihreteab879-design/configuring-Active-Directory-in-azure  ](https://github.com/nmihreteab879-design/configuring-Active-Directory-in-azure)
-  Creating OUs, users, groups, and implementing domain-wide changes.
+
+  . Creating OUs, users, groups, and implementing domain-wide changes.
 
 - Group Policy and Account Management  
-[  https://github.com/nmihreteab879-design/group-policy-and-managing-accounts ](https://github.com/nmihreteab879-design/group-policy-and-managing-accounts)  Creating users with PowerShell, managing groups, applying GPOs, and troubleshooting login issues.
+[  https://github.com/nmihreteab879-design/group-policy-and-managing-accounts ](https://github.com/nmihreteab879-design/group-policy-and-managing-accounts)
+
+. Creating users with PowerShell, managing groups, applying GPOs, and troubleshooting login issues.
 
 
  **🟨 Network File Shares and Permissions**
 
 - Network File Share Lab  
 [  https://github.com/nmihreteab879-design/network-file-share-lab ](https://github.com/nmihreteab879-design/network-file-share-lab)
- Creating SMB shares, configuring NTFS vs share permissions, and testing access with different security groups.
+
+. Creating SMB shares, configuring NTFS vs share permissions, and testing access with different security groups.
 
 
   **📄 Resume**
