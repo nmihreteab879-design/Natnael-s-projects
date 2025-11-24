@@ -1,6 +1,6 @@
  Hi, I'm Natnael Mihreteab
 
-I’m an aspiring IT/SOC professional with hands-on experience in Active Directory, osTicket, Azure, and Windows administration. Below are the projects I've completed to build real-world IT skills.
+I’m an aspiring IT/SOC professional with hands-on experience in Active Directory, osTicket, Azure, and Windows administration. Below are the projects I've completed.
 
 
  **👨‍💻 IT Help Desk Projects**
