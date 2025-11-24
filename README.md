@@ -46,8 +46,7 @@ I’m an aspiring IT/SOC professional with hands-on experience in Active Directo
 
   **📄 Resume**
 
-file:///C:/Users/natu1/Downloads/IT%20help%20desk%20resume%20(2).pdf
-
+file:///C:/Users/natu1/Downloads/IT%20help%20desk%20resume%20(4).pdf
 
  **🤳 Connect With Me**
 
