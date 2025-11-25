@@ -13,8 +13,8 @@ I’m an aspiring IT/SOC professional with hands-on experience in Active Directo
 . Configuring roles, departments, SLA plans, permissions, and system settings.
 
 - Ticket Lifecycle Project  
-[[[  https://github.com/nmihreteab879-design1/ticket-lifecycle ](https://github.com/nmihreteab879-design/osticket-ticketinglifecylce)
-](https://github.com/nmihreteab879-design/osticket-ticketinglifecylce/blob/main/README.md)](https://github.com/nmihreteab879-design/osticket-ticketinglifecylce/blob/main/README.md)
+https://github.com/nmihreteab879-design1/ticket-lifecycle
+
 . Demonstrating ticket creation, categorization, escalation, and resolution.
 
 
