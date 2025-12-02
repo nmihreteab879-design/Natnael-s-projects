@@ -14,6 +14,7 @@ I’m an aspiring IT/SOC professional with hands-on experience in Active Directo
 
 - Ticket Lifecycle Project  
 [https://github.com/nmihreteab879-design1/ticket-lifecycle](https://github.com/nmihreteab879-design/Ticket-Lifecycle-)
+
 . Demonstrating ticket creation, categorization, escalation, and resolution.
 
 
