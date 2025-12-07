@@ -8,12 +8,12 @@ I’m an aspiring IT/SOC professional with hands-on experience in Active Directo
  🟦 osTicket (Help Desk Ticketing System)
  
 -  Osticket Configuration  
-https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration-general-
+https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration-general-/blob/main/README.md
 
 . Configuring roles, departments, SLA plans, permissions, and system settings.
 
 - Ticket Lifecycle Project  
-https://github.com/nmihreteab879-design/Ticket-Lifecycle
+https://github.com/nmihreteab879-design/osticket-ticketinglifecylce-general-/blob/main/README.md
 
 . Demonstrating ticket creation, categorization, escalation, and resolution.
 
