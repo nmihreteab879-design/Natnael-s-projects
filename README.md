@@ -8,12 +8,12 @@ I’m an aspiring IT/SOC professional with hands-on experience in Active Directo
  🟦 osTicket (Help Desk Ticketing System)
  
 -  Osticket Configuration  
-[  https://github.com/nmihreteab879-design1/post-install-config ](https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration)
+  https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration
 
 . Configuring roles, departments, SLA plans, permissions, and system settings.
 
 - Ticket Lifecycle Project  
-[https://github.com/nmihreteab879-design1/ticket-lifecycle](https://github.com/nmihreteab879-design/Ticket-Lifecycle-)
+https://github.com/nmihreteab879-design/Ticket-Lifecycle
 
 . Demonstrating ticket creation, categorization, escalation, and resolution.
 
@@ -21,7 +21,7 @@ I’m an aspiring IT/SOC professional with hands-on experience in Active Directo
  **🟩 Active Directory Projects**
 
 - Preparing Active Directory in Azure  
-[  https://github.com/nmihreteab879-design/Preparing-Active-Directory-In-Azure ](https://github.com/nmihreteab879-design/Preparing-Active-Directory-In-Azure)
+https://github.com/nmihreteab879-design/Preparing-Active-Directory-In-Azure
 
 . Deploying DC-1 and Client-1 in Azure, DNS configuration, and domain setup.
 
@@ -39,7 +39,7 @@ I’m an aspiring IT/SOC professional with hands-on experience in Active Directo
  **🟨 Network File Shares and Permissions**
 
 - Network File Share Lab  
-[  https://github.com/nmihreteab879-design/network-file-share-lab ](https://github.com/nmihreteab879-design/network-file-share-lab)
+https://github.com/nmihreteab879-design/network-file-share-lab-general-/blob/main/README.md
 
 . Creating SMB shares, configuring NTFS vs share permissions, and testing access with different security groups.
 
