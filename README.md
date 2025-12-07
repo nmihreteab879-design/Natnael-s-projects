@@ -5,8 +5,6 @@ I’m an aspiring IT/SOC professional with hands-on experience in Active Directo
 
  **👨‍💻 IT Help Desk Projects**
 
- 🟦 osTicket (Help Desk Ticketing System)
- 
 -  Osticket Configuration  
 https://github.com/nmihreteab879-design/osTicket-Post-Installation-Configuration-general-/blob/main/README.md
 
