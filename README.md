@@ -1,6 +1,8 @@
- Hi, I'm Natnael Mihreteab
+<h1>Hi, I'm Natnael, an <a href="https://linkedin.com/in/Natnael">IT Professional</a>☺</h1>
 
-I’m an aspiring IT/SOC professional with hands-on experience in Active Directory, osTicket, Azure, and Windows administration. Below are the projects I have completed.
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+## osTicket 
 
 
  **👨‍💻 IT Help Desk Projects**
