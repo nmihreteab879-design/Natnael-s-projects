@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-## osTicket 
+  ## osTicket 
 
 
  **👨‍💻 IT Help Desk Projects**
